@@ -18,4 +18,4 @@ This work is licensed under a
 
 ![alt text](https://raw.githubusercontent.com/circuitvalley/ADF4351_USB_RF_GEN/refs/heads/master/Hardware/Images/low_cost_rf_signal_generator_ghz%20(3).JPG)
 
-![alt text](https://raw.githubusercontent.com/circuitvalley/ADF4351_USB_RF_GEN/refs/heads/master/Hardware/Images/low_cost_rf_signal_generator_ghz%20(1).JPG)
+![alt text](https://raw.githubusercontent.com/circuitvalley/ADF4351_USB_RF_GEN/refs/heads/master/Hardware/Images/KLIP30_fast_pulse_generator_30ps_rise_circuitvalley_11.png)
