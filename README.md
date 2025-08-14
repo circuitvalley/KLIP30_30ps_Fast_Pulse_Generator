@@ -1,16 +1,13 @@
 # KLIP30_30ps_Fast_Pulse_Generator
-
-Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
-
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License][cc-by-nc-nd].
-
-[![CC BY-NC-ND 4.0][cc-by-nc-nd-image]][cc-by-nc-nd]
-
-[cc-by-nc-nd]: http://creativecommons.org/licenses/by-nc-nd/4.0/
-[cc-by-nc-nd-image]: https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png
-[cc-by-nc-nd-shield]: https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg
     
+    
+    Cross platform USB RF Signal Generator implemented with PIC16F1459 and Analog device AD4351 is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Cross platform USB RF Signal Generator implemented with PIC16F1459 and Analog device AD4351.  If not, see <http://www.gnu.org/licenses/>.
 
 ![alt text](https://github.com/circuitvalley/KLIP30_30ps_Fast_Pulse_Generator/blob/main/Hardware/Images/fast_pulse_generator_30ps_rise_circuitvalley%20(4)_NEW.JPG)
 
