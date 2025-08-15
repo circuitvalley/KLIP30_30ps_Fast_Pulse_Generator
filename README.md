@@ -8,7 +8,18 @@
 
     You should have received a copy of the GNU General Public License
     along with Cross platform USB RF Signal Generator implemented with PIC16F1459 and Analog device AD4351.  If not, see <http://www.gnu.org/licenses/>.
+# Blog Post
 
+https://www.circuitvalley.com/2025/08/klip30-fast-pulse-generator-fast-rise-time-for-tdr-bandwidth.html
+ <br>
+  <br>
+<a href="https://www.youtube.com/watch?v=ODh7BDJ19S0">
+<img src="https://github.com/circuitvalley/KLIP30_30ps_Fast_Pulse_Generator/blob/main/Hardware/Images/pulsegen_fast_video.png" alt="RFGEN" width="1000" height="380">
+</a>
+
+ <br>
+ <br>
+ 
 ![alt text](https://github.com/circuitvalley/KLIP30_30ps_Fast_Pulse_Generator/blob/main/Hardware/Images/fast_pulse_generator_30ps_rise_circuitvalley%20(4)_NEW.JPG)
 
 ![alt text](https://github.com/circuitvalley/KLIP30_30ps_Fast_Pulse_Generator/blob/main/Hardware/Images/fast_pulse_generator_30ps_rise_circuitvalley%20(2).JPG)
