@@ -2,20 +2,20 @@
     
 KLIP30 USB Programmable 30ps Fast Pulse Generator
 
-Programmable DC Coupled Output with 50mV to 1300mV Signal Amplitude with 50Ω Output
-Very Fast ~20ps Falling Time and 30ps Rise time with Uncertainties + 1.6ps to – 1.8ps
-Programmable output frequency PLL Supports 30Khz to 300Mhz
-Ships default with 10Mhz 800mVpp output and Trigger output enabled
-USB Programmable Stores configuration in High endurance flash.
-Driver free USB over USB HD, Like keyboard or mouse, so special permissions or driver needed.
-Top Quality 27Ghz SMA Output Connector
-Aux In/Out Supports output AC Coupled 1.8Vpp output and input
-Support External Reference Input and Output For trigger and Sync between Multiple devices/ GPSDO
-Internal Oscillator 25ppm Initial accuracy and 2.5ppm/year ageing Stability, External Reference Input Supported 10Mhz to 25Mhz.
-USB C Power/ Configuration Communication , consumes ~250mA on 5V USB
-Extruded Aluminium Enclosure. Device fully user serviceable with support.
-Crossplatform Configuration GUI Application , Supports Windows, Linux, MacOS
-Deliverables, Pulse Generator Device, SMA Male to SMA Male Adapter, SMA Male to BNC Male Adapter, Individually measurement report
+-Programmable DC Coupled Output with 50mV to 1300mV Signal Amplitude with 50Ω Output
+-Very Fast ~20ps Falling Time and 30ps Rise time with Uncertainties + 1.6ps to – 1.8ps
+-Programmable output frequency PLL Supports 30Khz to 300Mhz
+-Ships default with 10Mhz 800mVpp output and Trigger output enabled
+-USB Programmable Stores configuration in High endurance flash.
+-Driver free USB over USB HD, Like keyboard or mouse, so special permissions or driver needed.
+-Top Quality 27Ghz SMA Output Connector
+-Aux In/Out Supports output AC Coupled 1.8Vpp output and input
+-Support External Reference Input and Output For trigger and Sync between Multiple devices/ GPSDO
+-Internal Oscillator 25ppm Initial accuracy and 2.5ppm/year ageing Stability, External Reference Input Supported 10Mhz to 25Mhz.
+-USB C Power/ Configuration Communication , consumes ~250mA on 5V USB
+-Extruded Aluminium Enclosure. Device fully user serviceable with support.
+-Crossplatform Configuration GUI Application , Supports Windows, Linux, MacOS
+-Deliverables, Pulse Generator Device, SMA Male to SMA Male Adapter, SMA Male to BNC Male Adapter, Individually measurement report
 
 ### Blog Post
 
