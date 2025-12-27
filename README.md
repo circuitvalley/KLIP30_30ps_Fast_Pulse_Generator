@@ -1,4 +1,4 @@
-# KLIP30_30ps_Fast_Pulse_Generator
+# KLIP30 Programmable 30ps Fast Pulse Generator
     
 KLIP30 USB Programmable 30ps Fast Pulse Generator
 
