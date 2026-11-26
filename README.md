@@ -1,22 +1,33 @@
 # KLIP30 Programmable 30ps Fast Pulse Generator
-    
-KLIP30 USB Programmable 30ps Fast Pulse Generator
 
-- Programmable DC Coupled Output with 50mV to 1300mV Signal Amplitude with 50Ω Output
-- Very Fast ~20ps Falling Time and 30ps Rise time with Uncertainties + 1.6ps to – 1.8ps
-- Programmable output frequency PLL Supports 30Khz to 300Mhz
-- Ships default with 10Mhz 800mVpp output and Trigger output enabled
-- USB Programmable Stores configuration in High endurance flash.
-- Driver free USB over USB HD, Like keyboard or mouse, so special permissions or driver needed.
-- Top Quality 27Ghz SMA Output Connector
-- Aux In/Out Supports output AC Coupled 1.8Vpp output and input
-- Support External Reference Input and Output For trigger and Sync between Multiple devices/ GPSDO
-- Internal Oscillator 25ppm Initial accuracy and 2.5ppm/year ageing Stability, External Reference Input Supported 10Mhz to 25Mhz.
-- USB C Power/ Configuration Communication , consumes ~250mA on 5V USB
-- Extruded Aluminium Enclosure. Device fully user serviceable with support.
-- Crossplatform Configuration GUI Application , Supports Windows, Linux, MacOS
-- Deliverables, Pulse Generator Device, SMA Male to SMA Male Adapter, SMA Male to BNC Male Adapter, Individually measurement report
+USB programmable fast-edge pulse generator: 30 ps rise, ~20 ps fall, 50–1300 mV into 50 Ω, 30 kHz – 300 MHz.
 
+## Ways to program: no installation, no driver
+
+The KLIP30 is a composite USB device (HID + USB serial port), so you can use:
+
+- **KLIP30 app**: portable GUI for Windows, Linux and macOS. Just start it.
+- **Text commands**: any serial terminal at 115200 baud, e.g. `FREQ 12.5M`, `AMP 600`, `SAVE`. `HELP` lists all.
+- **Your own scripts**: Python, LabVIEW, MATLAB … over the same serial port.
+
+## Specifications
+
+- Rise / fall time: 30 ps / ~20 ps (uncertainty +1.6 ps / −1.8 ps)
+- Output: 50–1300 mV, DC-coupled, 50 Ω, 27 GHz SMA
+- Repetition rate: 30 kHz – 300 MHz (PLL), 50% duty cycle
+- Default: 10 MHz, 800 mV, trigger output on
+- AUX in/out: AC-coupled 1.8 Vpp; external reference 10–25 MHz; trigger and multi-device / GPSDO sync
+- Internal oscillator: 25 ppm initial, 2.5 ppm/year ageing
+- Settings stored in high-endurance flash: runs standalone without a PC
+- USB-C, 5 V ~250 mA; firmware updates over USB
+- Extruded aluminium enclosure, user-serviceable
+- In the box: KLIP30, SMA–SMA and SMA–BNC adapters, individual measurement report
+
+## More
+
+- [Datasheet](KLIP30_Datasheet.pdf) · [User Guide](KLIP30_User_Guide.pdf) · [Blog post](https://www.circuitvalley.com/2025/08/klip30-fast-pulse-generator-fast-rise-time-for-tdr-bandwidth.html)
+- Linux: copy [Linux/92-cvklip30.rules](Linux/92-cvklip30.rules) to `/etc/udev/rules.d/`, then replug the KLIP30.
+- 
 ### Blog Post
 
 https://www.circuitvalley.com/2025/08/klip30-fast-pulse-generator-fast-rise-time-for-tdr-bandwidth.html
